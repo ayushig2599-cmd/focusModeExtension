@@ -11,7 +11,7 @@
    1. Open Google Chrome and navigate to chrome://extensions/.
    2. In the top right corner, enable Developer mode.
    3. Click the Load unpacked button that appears in the top left.
-   4. Navigate to your Documents folder and select the site-blocker-extension folder.
+   4. Clone this project and load this folder.
    5. The "Focus Blocker" should now appear in your list of extensions.
 
   How to Test It
